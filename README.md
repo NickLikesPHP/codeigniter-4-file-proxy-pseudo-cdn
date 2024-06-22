@@ -1,0 +1,1 @@
+# codeigniter-4-file-proxy-pseudo-cdn
